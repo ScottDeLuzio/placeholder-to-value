@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
 });
 
 function placeholdertovalue() {
-	jQuery( 'input[disabled]' ).each(function(){
+	jQuery( 'input[readonly]' ).each(function(){
 		var $this = jQuery(this);
 		$this.attr("value", $this.attr("placeholder")).removeAttr("placeholder"); 
 	});
