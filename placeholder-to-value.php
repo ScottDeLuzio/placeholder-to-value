@@ -3,7 +3,7 @@
 Plugin Name: Placeholder to Value
 Plugin URI: https://conditionalcheckoutfields.com
 Description: Set placeholder text to a value on readonly fields
-Version: 1.2
+Version: 1.3
 Author: Scott DeLuzio
 Author URI: https://scottdeluzio.com
 */
